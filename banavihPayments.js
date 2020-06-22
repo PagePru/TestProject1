@@ -1,5 +1,8 @@
-var msjError = "Por favor verifique los campos resaltados en color rojo. Para m·s detalles, haga clic en el icono de alerta.";
-var msjError2= "Por favor seleccione al menos un \"PerÌodo de Pago\" antes de hacer clic en el botÛn \"Continuar\".";
+***** se agrega este comentario el 21062020a las 23:11
+*
+*
+var msjError = "Por favor verifique los campos resaltados en color rojo. Para m√°s detalles, haga clic en el icono de alerta.";
+var msjError2= "Por favor seleccione al menos un \"Per√≠odo de Pago\" antes de hacer clic en el bot√≥n \"Continuar\".";
 var arrMonth = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
 		"Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
 var enableValidation = false;
@@ -11,7 +14,7 @@ var errorExceedsBalance = false;
 
 function formatTypePayroll(type){
     if (type === "F"){
-        return "FiscalizaciÛn";
+        return "Fiscalizaci√≥n";
     }
        return "Regular";
 }
