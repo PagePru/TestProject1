@@ -1,5 +1,6 @@
 ***** se agrega este comentario el 21062020a las 23:11
 ***** se agrega este comentario el 21062020a las 23:35
+***** se agrega este comentario el 21062020a las 23:37
 *
 *
 var msjError = "Por favor verifique los campos resaltados en color rojo. Para más detalles, haga clic en el icono de alerta.";
